@@ -47,7 +47,7 @@
 
 ### 📱 Mobile
 <div align="center">
-<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-ionic-a-popular-mobile-ui-toolkit-for-developing-cross-platform-apps-logo-color-tal-revivo.png" title="Ionic"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" width="60" title="Ionic"/>
 </div>
 
 ---
