@@ -1,47 +1,67 @@
-<h1 align="center">👋 Hola, soy Yery Antonio Perez Marte</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=2500&color=00F7FF&center=true&vCenter=true&lines=👋+Hola,+soy+Yery+Antonio+Perez+Marte" />
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Software+Engineer;Full+Stack+Developer;Mobile+Developer;Bot+Creator;UI%2FUX+Designer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=FFFFFF&center=true&vCenter=true&lines=Software+Engineer;Full+Stack+Developer;Mobile+Developer;Bot+Creator;UI%2FUX+Designer" />
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/iY2DP8pTB1fws4McKF/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/iY2DP8pTB1fws4McKF/giphy.gif" width="350"/>
 </div>
 
 ---
 
-## 💼 Sobre Mí
+# 💼 Sobre Mí
 
 💻 Ingeniero en Software (UAPA)  
-🚀 Apasionado por crear soluciones modernas y funcionales  
+🚀 Apasionado por crear soluciones modernas, escalables y funcionales  
 📱 Especializado en desarrollo Web y Móvil  
 🤖 Desarrollo de bots inteligentes  
-🎨 Diseño UI/UX profesional  
+🎨 Enfocado en diseño UI/UX profesional  
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
+### 🚀 Lenguajes & Frameworks
 <div align="center">
+<img src="https://skillicons.dev/icons?i=java,ts,js,python,angular,react,nodejs,express,php" />
+</div>
 
-<img src="https://skillicons.dev/icons?i=java,ts,js,python,angular,react,nodejs,express,mongodb,mysql,firebase,supabase,docker,git,php" />
+### 🗄️ Bases de Datos
+<div align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase" />
+<br/><br/>
+<img src="https://img.icons8.com/color/48/microsoft-sql-server.png" title="SQL Server"/>
+</div>
 
+### ⚙️ Herramientas & DevOps
+<div align="center">
+<img src="https://skillicons.dev/icons?i=docker,git,netlify" />
+<br/><br/>
+<img src="https://img.icons8.com/color/48/xampp.png" title="XAMPP"/>
+</div>
+
+### 📱 Mobile
+<div align="center">
+<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-ionic-a-popular-mobile-ui-toolkit-for-developing-cross-platform-apps-logo-color-tal-revivo.png" title="Ionic"/>
 </div>
 
 ---
 
-## ⚡ ¿Qué Hago?
+# ⚡ ¿Qué Hago?
 
-✨ Desarrollo Web moderno  
-📱 Apps móviles multiplataforma  
-🤖 Bots y automatización  
-🎨 Interfaces atractivas y funcionales  
+✨ Desarrollo de aplicaciones web modernas  
+📱 Creación de apps móviles multiplataforma  
+🤖 Automatización y bots inteligentes  
+🎨 Diseño de interfaces atractivas y funcionales  
 
 ---
 
-## 📊 Estadísticas
+# 📊 Estadísticas
 
 <div align="center">
 
@@ -53,7 +73,7 @@
 
 ---
 
-## 🔥 Racha de commits
+# 🔥 Racha de commits
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yery25&theme=radical&hide_border=true"/>
@@ -61,7 +81,7 @@
 
 ---
 
-## 🐍 Actividad (Snake Animation)
+# 🐍 Actividad
 
 <div align="center">
   <img src="https://github.com/yery25/yery25/blob/output/github-contribution-grid-snake.svg" />
@@ -69,16 +89,16 @@
 
 ---
 
-## 🚀 Proyectos
+# 🚀 Proyectos Destacados
 
-🔹 Apps Web con Angular / React  
+🔹 Aplicaciones Web con Angular / React  
 🔹 Apps móviles con Ionic  
 🔹 Bots inteligentes  
-🔹 Sistemas completos  
+🔹 Sistemas completos con backend  
 
 ---
 
-## 📫 Conecta conmigo
+# 📫 Conecta conmigo
 
 <div align="center">
 
@@ -90,7 +110,7 @@
 
 ---
 
-## 👁️ Visitas
+# 👁️ Visitas
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=yery25&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
@@ -98,7 +118,7 @@
 
 ---
 
-## ⚡ Frase
+# ⚡ Filosofía
 
 > *"Code is power. Creativity is limitless."* 🚀
 
